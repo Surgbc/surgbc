@@ -5,7 +5,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surgbc&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-naidu" /> </p>
 
+<h3 align="left">Projects I've Completed:</h3>
 
+| Project |Client | FrontEnd| BackEnd| Embedded | Mechanical |
+|----|----|----|----|----|----|
+| [Csycms Flat File CMS](https://github.com/csymapp/csycms-cli)|[CSECO](https://cseco.co.ke/) |☑|☑|||
+| [Farmbot Simulator](https://www.youtube.com/watch?v=rok1GQB_Lsg&ab_channel=CSECO)|[CSECO](https://cseco.co.ke/) |☑|☑|||
+| [Advent Hymnals](https://adventhymnals.org/)|[Gospel Sounders](https://gospelsounders.org/) |☑|☑|||
+| [Sabbath School Lessons](https://sabbathschool.github.io/)|[Gospel Sounders](https://gospelsounders.org/) |☑|☑|||
+| [LoRa Packet Forwarder](https://github.com/upandeLimited/vipimo_forwarder)|[Upande Limited](https://upande.com/) ||☑|☑||
+| [LoRaNexus Firmware](https://github.com/Ideetron/Nexus_LoRaWAN/pull/1)|[Upande Limited](https://upande.com/) |||☑||
+| [Weather Station Firmware](https://github.com/upandeLimited/WeatherStation)|[Upande Limited](https://upande.com/) |||☑||
+
+<h3 align="left">Software I've Reverse Engineered:</h3>
+
+| Software | Mod | Result|
+|----|----|----|
+| Safaricom Home Fiber Router| [Private Repo](https://github.com/csecureline/safRouters)|Use Home Fiber without Subscription |
+| [Thingsboard](https://thingsboard.io/)| [ThingsboardMod](https://github.com/thingsboardmod)|Customize Thingsboard CE or Use Thingsboard PE without a license|
 
 <h3 align="left">Current Projects:</h3>
 
@@ -22,22 +39,8 @@
 
 | Project |Client | FrontEnd| BackEnd| Embedded | Mechanical |
 |----|----|----|----|----|----|
-| [Virtual Supervisor](https://github.com/virtualsupervisor)|[CSECO](https://cseco.co.ke/) |☑|☑|☑||
-| [Csynage Digital Csynage System](https://github.com/virtualsupervisor)|[CSECO](https://cseco.co.ke/) |☑|☑|☑||
-
-
-
-<h3 align="left">Projects I've Completed:</h3>
-
-| Project |Client | FrontEnd| BackEnd| Embedded | Mechanical |
-|----|----|----|----|----|----|
-| [Csycms Flat File CMS](https://github.com/csymapp/csycms-cli)|[CSECO](https://cseco.co.ke/) |☑|☑|||
-| [Farmbot Simulator](https://www.youtube.com/watch?v=rok1GQB_Lsg&ab_channel=CSECO)|[CSECO](https://cseco.co.ke/) |☑|☑|||
-| [Advent Hymnals](https://adventhymnals.org/)|[Gospel Sounders](https://gospelsounders.org/) |☑|☑|||
-| [Sabbath School Lessons](https://sabbathschool.github.io/)|[Gospel Sounders](https://gospelsounders.org/) |☑|☑|||
-| [LoRa Packet Forwarder](https://github.com/upandeLimited/vipimo_forwarder)|[Upande Limited](https://upande.com/) ||☑|☑||
-| [LoRaNexus Firmware](https://github.com/Ideetron/Nexus_LoRaWAN/pull/1)|[Upande Limited](https://upande.com/) |||☑||
-| [Weather Station Firmware](https://github.com/upandeLimited/WeatherStation)|[Upande Limited](https://upande.com/) |||☑||
+| [Virtual Supervisor](https://github.com/virtualsupervisor)|[CSECO](https://cseco.co.ke/) |☑|☑|||
+| [Csynage Digital Csynage System](https://csynage.com/)|[CSECO](https://cseco.co.ke/) |☑|☑|☑||
 
 <h3 align="left">Packages I've Written:</h3>
 
@@ -49,13 +52,6 @@
 | [portscanner-sync](https://www.npmjs.com/package/portscanner-sync)|
 | [swahili-kjv CLI](https://www.npmjs.com/package/swahili-kjv)|
 | [Farmbot Simulator](https://www.npmjs.com/package/farmbotsimulator-js)|
-
-<h3 align="left">Software I've Reverse Engineered:</h3>
-
-| Software | Mod | Result|
-|----|----|----|
-| Safaricom Home Fiber Router| (Private Repo)[https://github.com/csecureline/safRouters]|Use Home Fiber without Subscription |
-| [Thingsboard](https://thingsboard.io/)| [ThingsboardMod](https://github.com/thingsboardmod)|Customize Thingsboard CE or Use Thingsboard PE without a license|
 
 <h3 align="left">Big bugs I've Discovered:</h3>
 
