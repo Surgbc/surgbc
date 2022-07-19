@@ -21,7 +21,7 @@
 
 | Software | Mod | Result|
 |----|----|----|
-| Safaricom Home Fiber Router| [Private Repo](https://github.com/csecureline/safRouters)|Use Home Fiber without Subscription |
+| Safaricom Home Fiber Router Firm| [Private Repo](https://github.com/csecureline/safRouters)|Use Home Fiber without Subscription |
 | [Thingsboard](https://thingsboard.io/)| [ThingsboardMod](https://github.com/thingsboardmod)|Customize Thingsboard CE or Use Thingsboard PE without a license|
 
 <h3 align="left">Current Projects:</h3>
@@ -68,6 +68,7 @@
 
 
 <h3 align="left">Places I've Worked:</h3>
+
 | Organization | 
 |----|
 | [CSECO](https://cseco.co.ke/)|
