@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Brian Onang'o</h1>
-<h3 align="center">A mechatronics Engineer from Kenya</h3>
-<h3 align="center">Founder and CEO of <a href="https://www.cseco.co.ke">Circuits and Systems Engineering Company<a/></h3>
+<h3 align="center">A Mechatronics Engineer, Software Engineer, Roboticist and Researcher from Kenya</h3>
+<h3 align="center">Founder and CEO of <a href="https://www.cseco.co.ke">Brian Mechanisms Robotics<a/></h3> (formerly Circuits and Systems Engineering Company)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surgbc&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-naidu" /> </p>
 
